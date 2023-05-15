@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/filmmania-app/static/css/main.4fda2e67.css",
+    "main.js": "/filmmania-app/static/js/main.aea54cfd.js",
+    "static/js/787.2e885d30.chunk.js": "/filmmania-app/static/js/787.2e885d30.chunk.js",
+    "static/media/filmania-logo.webp": "/filmmania-app/static/media/filmania-logo.f28b114fae1c5b8543f8.webp",
+    "index.html": "/filmmania-app/index.html",
+    "main.4fda2e67.css.map": "/filmmania-app/static/css/main.4fda2e67.css.map",
+    "main.aea54cfd.js.map": "/filmmania-app/static/js/main.aea54cfd.js.map",
+    "787.2e885d30.chunk.js.map": "/filmmania-app/static/js/787.2e885d30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fda2e67.css",
+    "static/js/main.aea54cfd.js"
+  ]
+}
